@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Song Search</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Song Search</h1>
+        <div class="input-section">
+            <label for="userInput">Enter your text:</label>
+            <input type="text" id="userInput" placeholder="Type your text here...">
+            <button onclick="generateSongs()">Generate</button>
+        </div>
+
+        <div id="songList" class="song-list">
+            <!-- Song results will be displayed here dynamically -->
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
