@@ -3,10 +3,13 @@
 ## Key Features
 
 <details>
-
-- Sentiment Analysis
-- Find music based off sentiment and lyrical similarity with input
-- Play sample of recommended songs
+  <summary>Sentiment Analysis</summary>
+</details>
+<details>
+  <summary>Lyrical Simmilarity</summary>
+</details>
+<details>
+  <summary>Interactive and Friendly Interface</summary>
 </details>
 
 ## Technologies
@@ -22,22 +25,23 @@
 <details>
   <summary>Ishmam Fardin</summary>
   
-  [LinkedIn](https://www.linkedin.com/in/ishmam-fardin/)</p>
-  [Github](https://github.com/IshmamF)</p>
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishmam-fardin/)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IshmamF)
   
 </details>
 <details>
   <summary>Mostafa Murshad Ali</summary>
   
-  [LinkedIn](https://www.linkedin.com/in/mostafa-murshad-ali/)</p>
-  [Github](https://github.com/mostafaali05)</p>
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-murshad-ali/)</p>
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mostafaali05)</p>
   
 </details>
 <details>
   <summary>Farhana Noor</summary>
   
-  [LinkedIn](https://www.linkedin.com/in/farhana-noor/)</p>
-  [Github](https://github.com/farhanaa-noor)</p>
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farhana-noor/)</p>
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/farhanaa-noor)</p>
   
 </details>
 
+## Getting Started
