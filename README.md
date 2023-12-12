@@ -1,6 +1,15 @@
 # Inspiration
 
-## **Technologies:**
+## Key Features
+
+<details>
+
+- Sentiment Analysis
+- Find music based off sentiment and lyrical similarity with input
+- Play sample of recommended songs
+</details>
+
+## Technologies
 ![Python Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&color=%233776AB)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97-Hugging%20Face-yellow)](https://huggingface.co/models?filter=keytotext)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B)
