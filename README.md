@@ -21,7 +21,7 @@
 ![SpotiPy](https://img.shields.io/badge/SpotiPy-1ED760?logo=spotify&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
 
-## Contributors 
+## Contributors  
 <details>
   <summary>Ishmam Fardin</summary>
   
