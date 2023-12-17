@@ -1,5 +1,7 @@
 # Inspiration
 
+
+Check out our project on: https://huggingface.co/spaces/IshmamF/ModusMusic
 ## Key Features
 
 <details>
