@@ -6,34 +6,42 @@ Check out our project on: https://huggingface.co/spaces/IshmamF/ModusMusic
 
 <details>
   <summary>Sentiment Analysis</summary>
+
   - Advanced Technology: Utilizes state-of-the-art algorithms.
   - Emotion Detection: Identifies emotions from your text.
   - Broad Spectrum: Categorizes text into one of 26 unique emotions.
   - Precision and Accuracy: Ensures an accurate understanding of sentiment.
+
 </details>
 
 <details>
   <summary>Lyrical Similarity</summary>
+
   - AI-Powered: Employs an intelligent model for analysis.
   - Content Matching: Finds songs with similar lyrical content.
   - Context Awareness: Considers the context for deeper similarity.
   - Unique Song Selection: Offers a distinct and relevant lyrical match.
+
 </details>
 
 <details>
   <summary>Song Matching</summary>
+
   - Dual Analysis: Combines sentiment and lyrical similarity models.
   - Mood Alignment: Matches songs to your current emotional state.
   - Situation Specific: Tailors song selections to fit your situation.
   - Personalized Experience: Creates a custom musical journey.
+
 </details>
 
 <details>
   <summary>Interactive and Friendly Interface</summary>
+
   - User-Friendly Design: Easy and engaging interface.
   - Lyric Exploration: Delve into the depths of song lyrics.
   - Music Sampling: Listen to samples of recommended songs.
   - Immersive Experience: Enjoy a seamless exploration of music.
+
 </details>
 
 
