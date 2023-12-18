@@ -3,9 +3,14 @@
 ModusMusic redefines the way you discover music, harnessing the power of advanced AI to transform your text inputs into a curated musical experience. With our cutting-edge technology, ModusMusic delves deep into the essence of your words, employing sophisticated sentiment analysis and lyrical similarity algorithms. Whether you're describing a fleeting moment, a cherished memory, or a current mood, our intuitive application expertly sifts through vast musical libraries to find songs that resonate perfectly with your situation. Experience the future of personalized music curation with ModusMusic, where every song recommendation is a step closer to the soundtrack of your life.
 
 # Inspiration
+<details>
+    <summary> Harmonizing Life with Your Personal Soundtrack</summary>
+<p></p>
 Music has a unique way of connecting us all, deeply influencing our lives and emotions. Reflect on your Spotify Wrapped, where countless minutes reveal just how integral music is to our daily experiences. It's not just a background element; music is a vital part of life, enhancing everything from YouTube videos and movies to the ambient sounds on city streets. <p>
 
 Music brings our world to life, providing a soundtrack that resonates with every situation we encounter. Our application is born from this profound connection. Our goal is to help you discover music that not only brightens your day but also perfectly complements your needs, whether it's setting the mood for an Instagram story or finding a tune that matches your current vibe. We believe in the power of music to transform moments, and through our application, we aim to bring that transformative experience to you.
+
+</details>
 
 Try it out on: https://huggingface.co/spaces/IshmamF/ModusMusic
 ## Key Features
