@@ -6,12 +6,19 @@ Check out our project on: https://huggingface.co/spaces/IshmamF/ModusMusic
 
 <details>
   <summary>Sentiment Analysis</summary>
+  We use state of the art techonology to identify what emotion you're text falls under out of 26 emotions.  
 </details>
 <details>
   <summary>Lyrical Simmilarity</summary>
+  Our AI model is able to find songs that have lyrics that match in similarity in terms of content and context.
+</details>
+<details>
+  <summary>Song Matching</summary>
+  Using a model for sentiment and a model for similarity between your text and lyrics, we are able to match you with songs that fit your mood or situation!
 </details>
 <details>
   <summary>Interactive and Friendly Interface</summary>
+  Pry into a recommended songs lyrics with ease, while also listening to a sample of the song. 
 </details>
 
 ## Technologies
@@ -47,3 +54,7 @@ Check out our project on: https://huggingface.co/spaces/IshmamF/ModusMusic
 </details>
 
 ## Getting Started
+
+1. Install the required libraries 
+2. git clone our repository 
+3. In the folder you just downloaded, use the following command `streamlit run app.py`
