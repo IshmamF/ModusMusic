@@ -6,20 +6,36 @@ Check out our project on: https://huggingface.co/spaces/IshmamF/ModusMusic
 
 <details>
   <summary>Sentiment Analysis</summary>
-  We use state of the art techonology to identify what emotion you're text falls under out of 26 emotions.  
+  - Advanced Technology: Utilizes state-of-the-art algorithms.
+  - Emotion Detection: Identifies emotions from your text.
+  - Broad Spectrum: Categorizes text into one of 26 unique emotions.
+  - Precision and Accuracy: Ensures an accurate understanding of sentiment.
 </details>
+
 <details>
-  <summary>Lyrical Simmilarity</summary>
-  Our AI model is able to find songs that have lyrics that match in similarity in terms of content and context.
+  <summary>Lyrical Similarity</summary>
+  - AI-Powered: Employs an intelligent model for analysis.
+  - Content Matching: Finds songs with similar lyrical content.
+  - Context Awareness: Considers the context for deeper similarity.
+  - Unique Song Selection: Offers a distinct and relevant lyrical match.
 </details>
+
 <details>
   <summary>Song Matching</summary>
-  Using a model for sentiment and a model for similarity between your text and lyrics, we are able to match you with songs that fit your mood or situation!
+  - Dual Analysis: Combines sentiment and lyrical similarity models.
+  - Mood Alignment: Matches songs to your current emotional state.
+  - Situation Specific: Tailors song selections to fit your situation.
+  - Personalized Experience: Creates a custom musical journey.
 </details>
+
 <details>
   <summary>Interactive and Friendly Interface</summary>
-  Pry into a recommended songs lyrics with ease, while also listening to a sample of the song. 
+  - User-Friendly Design: Easy and engaging interface.
+  - Lyric Exploration: Delve into the depths of song lyrics.
+  - Music Sampling: Listen to samples of recommended songs.
+  - Immersive Experience: Enjoy a seamless exploration of music.
 </details>
+
 
 ## Technologies
 ![Python Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white&color=%233776AB)
