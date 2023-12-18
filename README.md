@@ -1,3 +1,7 @@
+# ModusMusic: A Revolutionary AI-Powered Musical Companion
+
+ModusMusic redefines the way you discover music, harnessing the power of advanced AI to transform your text inputs into a curated musical experience. With our cutting-edge technology, ModusMusic delves deep into the essence of your words, employing sophisticated sentiment analysis and lyrical similarity algorithms. Whether you're describing a fleeting moment, a cherished memory, or a current mood, our intuitive application expertly sifts through vast musical libraries to find songs that resonate perfectly with your situation. Experience the future of personalized music curation with ModusMusic, where every song recommendation is a step closer to the soundtrack of your life.
+
 # Inspiration
 Music has a unique way of connecting us all, deeply influencing our lives and emotions. Reflect on your Spotify Wrapped, where countless minutes reveal just how integral music is to our daily experiences. It's not just a background element; music is a vital part of life, enhancing everything from YouTube videos and movies to the ambient sounds on city streets. <p>
 
@@ -81,6 +85,9 @@ Try it out on: https://huggingface.co/spaces/IshmamF/ModusMusic
 
 ## Getting Started
 
-1. Install Python3 and the required libraries in requirements.txt
-2. git clone our repository by using the following command `git clone https://github.com/IshmamF/ModusMusic.git`
-3. In the path/location you downloaded, use the following command `streamlit run app.py`
+**To set up ModusMusic:**
+
+1. Ensure Python 3.x is installed on your system.
+2. Clone the repository: `git clone https://github.com/IshmamF/ModusMusic.git`
+3. Install required packages: `pip install -r requirements.txt`
+4. Launch the application: `streamlit run app.py`
