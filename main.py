@@ -2,10 +2,13 @@ import streamlit as st
 from spotify_api import SpotifyClient
 from sentiment_analysis import SentimentAnalyzer
 from song_matching import SongMatcher
+import os 
+from dotenv import load_dotenv
+load_dotenv() # create .env file with credentials
 
 # Spotify API credentials - ensure these are securely stored or use environment variables
-CLIENT_ID = "c34955a27b6447e3a1b92305d04bbbea"
-CLIENT_SECRET = "1d197925c0654b5da80bd3cfa1f5afdd"
+client_id = os.getenv('client_id')
+client_secret = os.getenv('client_secret')
 
 # Initialize SpotifyClient, SentimentAnalyzer, and SongMatcher
 spotify_client = SpotifyClient(CLIENT_ID, CLIENT_SECRET)
